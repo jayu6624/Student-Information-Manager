@@ -89,7 +89,6 @@ int main() {
                 break;
             case 4:
                 // Exit the program
-                cout<<"MADE BY 22CS003 - Pratham aghera "<<endl <<"\t22CS039 - Krish mavani"<<endl <<"\t22CS092 - Sujal vekariya"<<endl;
                 return 0;
             default:
                 // Display an error message if an invalid option is selected
